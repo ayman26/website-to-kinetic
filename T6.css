@@ -1,0 +1,471 @@
+.home
+{
+    background-image:url(contact-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height:850px;
+    margin-bottom: 40%
+}
+
+.a
+{
+    padding: 10%;
+    padding-left: 19%;
+    
+}
+
+img
+{
+    background-color:gold;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 40px;
+    padding: 15px; 
+}
+
+img:hover
+{
+    cursor: pointer;
+    background-color: white
+}
+
+h3 , a
+{
+    font-family:sans-serif;
+    color:white;
+    opacity: .9;
+    margin: 32px;
+    display: inline;
+    font-weight: normal;
+
+}
+
+h3:hover
+{
+    cursor: pointer;
+    color: gold
+}
+
+h1
+{
+    padding-left: 35%;
+    font-size: 55px;
+    color: aliceblue;
+    font-weight:bolder;
+    letter-spacing: -3px
+}
+
+.d>p
+{
+    font-size: 20px;
+    padding-left: 27%;
+    color: gold;
+    letter-spacing: 2px;
+}
+
+.d
+{
+    font-family:sans-serif;
+    padding-top: 10%
+}
+
+footer
+{
+    background-color: gold;
+    background-size: cover;
+    width: 100%;
+    height: 5%;
+    color:dimgray;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.e
+{
+    width: 100%;
+    height: 20%;
+    background-color: white;
+}
+
+.b
+{
+    font-family: sans-serif;
+    background-color:white;
+    width: 80%;
+    height: 35%;
+    margin-left: 10%;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    color: dimgray;
+    border: #ddd 1px solid;
+    opacity: .999;
+    border-top: solid gold 15px;
+    box-shadow: -1px 2px 2px #ddd
+
+}
+
+h4
+{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 3px;
+    opacity: .8
+}
+
+button
+{
+    background-color: gold;
+    color:#000;
+    padding: 15px 22px;
+    border-radius: 5px;
+    border: solid gold 1px;
+    margin-top: 30px;
+    opacity: .9
+}
+
+.b>p
+{
+    font-size: 15px;
+    line-height: 25px;
+    opacity: .7
+}
+
+button:hover
+{
+    background-color: white;
+    cursor: pointer
+    
+}
+
+span
+{
+    color:darkslateblue;
+    font-weight: 600
+}
+
+span:hover
+{
+    cursor: pointer;
+    text-decoration: underline;
+    color: cornflowerblue
+}
+
+.................................................................................... .
+
+.btn1
+{
+    margin-top: 20px
+}
+
+.btn2
+{
+    
+    float: left;
+    margin-left: 40px;
+    margin-top: 120px;
+}
+
+.left
+{  
+    margin-right: 0;
+    padding: 0;
+    float: right;
+    width: 482px;
+    height: 242px;
+    border-radius: 0; 
+    background-color: white;
+    margin-top: -30px;
+}
+
+.right
+{  
+    margin-right: 30px;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 0;
+    float: left;
+    width: 585px;
+    height: 270px; 
+    border-radius: 0;
+    background-color: white;
+    margin-bottom: 30px
+}
+
+
+
+.f
+{
+    font-family: sans-serif;
+    background-color:white;
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+    margin-top: 50px;
+    border: #ddd 1px solid;
+    opacity: .999;
+    border-top: solid gold 15px;
+    box-shadow: -1px 2px 2px #ddd;
+}
+
+
+
+.aboutus
+{
+    background-image:url(contact-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height:850px;
+    margin-bottom: 53%;
+}
+
+.f>p , .f>h2
+{
+    line-height: 20px;
+    color: #000;
+    opacity: .6
+}
+
+h4
+{
+    display: inline
+}
+
+.u
+{
+    color: #000;
+    opacity: .8;
+    float: left;
+    line-height: 18px;
+    margin-left: 50px;
+    margin-top: -170px
+}
+
+.t
+{
+    font-family: sans-serif;
+    background-color:white;
+    width: 87%;
+    height: 60%;
+    margin-left: 7%;
+    margin-top: 50px;
+    border: #ddd 1px solid;
+    opacity: .999;
+    border-top: solid gold 15px;
+    box-shadow: -1px 2px 2px #ddd;
+   
+}
+
+.featured
+{
+    background-image:url(contact-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height:850px;
+    margin-bottom: 50%;
+}
+
+.h>p
+{
+    font-size: 20px;
+    padding-left: 19%;
+    color: gold;
+    letter-spacing: 2px;
+}
+
+.h>h1
+{
+     padding-left: 31%;
+    font-size: 55px;
+    color: aliceblue;
+    font-weight:bolder;
+    letter-spacing: -3px
+}
+
+.t>.o
+{  
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 0;
+    float: left;
+    width: 600px;
+    height: 450px; 
+    border-radius: 0;
+    background-color: white;
+    margin-bottom: 30px
+}
+
+h5
+{
+    color: #000;
+    font-family:sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px
+    
+    
+}
+
+.l
+{
+    font-weight: bolder;
+    color: gold;
+    font-size: 23px
+}
+
+.t>p
+{
+    color: #000;
+    opacity: .8;
+    line-height: 20px
+}
+
+............................................................................
+
+.d>p
+{
+    font-size: 20px;
+    padding-left: 30%;
+    color: gold;
+    letter-spacing: 2px;
+}
+
+.d>h1
+{
+    padding-left: 30%;
+    font-size: 50px;
+    color: aliceblue;
+    font-weight:bolder;
+    letter-spacing: -2px
+}
+
+.projects
+{
+    background-image:url(contact-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height:830px;
+    margin-bottom: 53%;
+}
+
+.k
+{
+    width: 200px;
+    height: 200px; 
+    border-radius: 0;
+    background-color: white;
+    padding: 0;
+    margin-bottom: 30px;
+    padding-left: 17px;
+    margin:8px;
+    margin-top: 20px
+}
+
+.p
+{
+    background-color:white;
+    width: 72%;
+    height: 60%;
+    margin-left: 13%;
+    margin-top: 50px;
+    border: #ddd 1px solid;
+    opacity: .999;
+    border-top: solid gold 15px;
+    box-shadow: -1px 2px 2px #ddd;
+}
+
+........................................................
+
+
+
+
+.q
+{
+    float: left;
+    margin: -5px;
+    
+}
+
+.q>.y
+{
+    background-color:white;
+    
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 18px;
+    margin-top: 80px;
+    border-color: white;
+    padding: 0
+}
+
+.q>.y:hover
+{
+    background-color:gold;
+    color: gold;
+    border-width: 2px
+    
+}
+
+input
+{
+    margin-right: 32px;
+    margin-bottom: 20px;
+    padding-right: 137px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input,textarea
+{
+    background-color: #ddd;
+    opacity: .3;
+    border: solid 1px;
+    border-color: #ddd
+}
+
+form
+{
+    float: right;
+    margin-top: -180px;
+    margin-right: 45px
+}
+
+button
+{
+    background-color: gold;
+    color:#000;
+    padding: 15px 22px;
+    border-radius: 5px;
+    border: solid gold 1px;
+    opacity: .9
+}
+
+.s
+{
+    
+    font-family: sans-serif;
+    background-color:white;
+    width: 87%;
+    height: 40%;
+    margin-left: 7%;
+    margin-top: 50px;
+    border: #ddd 1px solid;
+    opacity: .999;
+    border-top: solid gold 15px;
+    box-shadow: -1px 2px 2px #ddd;
+
+}
+
+.s>p
+{
+    margin-top: 40px;
+    margin-left: 30px;
+    color: #000;
+    opacity: .5
+}
+
